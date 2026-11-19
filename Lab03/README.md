@@ -1,9 +1,17 @@
 # Lab 03 — Microphone and Loudspeaker Amplifiers
 
-I studied the two ends of the TRC-11 audio path. The LM358 microphone amplifier raises the level of the microphone signal, and the loudspeaker amplifier drives the earphone. A temporary jumper at JP21 connected the stages for an audio loopback test.
+**EEE211: Analog Electronics — Bilkent University, Fall 2026**
 
-## Measurement highlight
+**Author:** Emir Küçükakın
 
-I plotted microphone-amplifier gain against frequency and measured the lower and upper cutoff frequencies at **33.4 Hz** and **1.96 kHz**. The lower cutoff was close to the calculated 33.86 Hz. The upper cutoff fell below the calculated 3.386 kHz, giving the measured amplifier a narrower bandwidth.
+## Overview
 
-[Read the full lab report (PDF)](../LabReport3_final.pdf)
+This experiment covers the microphone and loudspeaker amplifiers on the TRC-11 board. Connecting the two stages makes it possible to test the complete audio path from the microphone to an earphone.
+
+## Contents
+
+The laboratory report documents the amplifier circuits, the measured frequency response and cutoff frequencies of the microphone amplifier, and the audio loopback test.
+
+- [Laboratory Report](LabReport3_final.pdf)
+
+[Back to Repository](../)
