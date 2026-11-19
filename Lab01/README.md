@@ -1,9 +1,17 @@
 # Lab 01 — Bench Instruments and Soldering
 
-I used a digital multimeter to measure components and an oscilloscope to examine waveforms from a signal generator. The lab also covered soldering and the effect of sampling rate on the display of an amplitude-modulated signal.
+**EEE211: Analog Electronics — Bilkent University, Fall 2026**
 
-## Measurement highlight
+**Author:** Emir Küçükakın
 
-I measured the ammeter’s internal resistance as **2.4 Ω**. Inserting the meter in series added this resistance to the branch, which explains why the measured current was lower than the value calculated for an ideal ammeter.
+## Overview
 
-[Read the full lab report (PDF)](../LabReport1_final.pdf)
+This experiment introduces the digital multimeter and oscilloscope through component measurements and waveform observations. It also covers the soldering techniques used in later TRC-11 experiments.
+
+## Contents
+
+The laboratory report includes resistance, current, and capacitance measurements, soldering exercises, and oscilloscope observations of amplitude-modulated signals.
+
+- [Laboratory Report](LabReport1_final.pdf)
+
+[Back to Repository](../)
