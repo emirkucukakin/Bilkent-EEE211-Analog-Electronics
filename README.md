@@ -4,11 +4,11 @@ This repository contains my lab reports for EEE211 Analog Electronics at Bilkent
 
 ## Labs
 
-- [Lab 1](Lab01.pdf)
-- [Lab 2](Lab02.pdf)
-- [Lab 3](Lab03.pdf)
-- [Lab 4](Lab04.pdf)
-- [Lab 5](Lab05.pdf)
+- [Lab 1](LabReport1_final.pdf)
+- [Lab 2](LabReport2_final.pdf)
+- [Lab 3](LabReport3_final.pdf)
+- [Lab 4](LabReport4_final.pdf)
+- [Lab 5](LabReport5_final.pdf)
 
 ## Contact
 
