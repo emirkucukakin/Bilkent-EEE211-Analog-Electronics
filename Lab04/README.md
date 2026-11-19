@@ -14,4 +14,6 @@ The laboratory report compares the simulated and measured voltage gain of each s
 
 - [Laboratory Report](LabReport4_final.pdf)
 
+- [LTspice Simulation Files (ZIP)](Lab04-LTspice.zip)
+
 [Back to Repository](../)
