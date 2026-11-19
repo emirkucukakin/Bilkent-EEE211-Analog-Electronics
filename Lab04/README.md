@@ -1,14 +1,17 @@
 # Lab 04 — Intermediate-Frequency Amplifiers
 
-I built and tested the two KSP10 transistor stages of the TRC-11 intermediate-frequency amplifier. I measured each stage separately at **15.003 MHz** before connecting them through coupling capacitor C52.
+**EEE211: Analog Electronics — Bilkent University, Fall 2026**
 
-## Stage measurements
+**Author:** Emir Küçükakın
 
-| Stage | Input (peak-to-peak) | Output (peak-to-peak) | Voltage gain |
-| --- | ---: | ---: | ---: |
-| First (TP50 → TP51) | 92.0 mV | 5.20 V | 35.04 dB |
-| Second (TP60 → TP61) | 92.8 mV | 5.60 V | 35.61 dB |
+## Overview
 
-The first stage measured 4.22 dB above its simulated gain of 30.82 dB. Both stages produced similar gains under the same test conditions.
+This experiment covers the design, assembly, and testing of two KSP10 transistor amplifier stages for the 15 MHz intermediate-frequency section of the TRC-11.
 
-[Read the full lab report (PDF)](../LabReport4_final.pdf)
+## Contents
+
+The laboratory report compares the simulated and measured voltage gain of each stage. It also includes transistor bias calculations, input resistance estimates, and peak-to-peak voltage measurements.
+
+- [Laboratory Report](LabReport4_final.pdf)
+
+[Back to Repository](../)
