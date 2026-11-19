@@ -1,9 +1,17 @@
 # Lab 02 — Oscilloscope Probe Compensation and Voltage Regulation
 
-I examined how probe compensation affects the shape of a square wave on the oscilloscope, then assembled the TRC-11 regulator that supplies the 6 V rail from a 12 V input.
+**EEE211: Analog Electronics — Bilkent University, Fall 2026**
 
-## Measurement highlight
+**Author:** Emir Küçükakın
 
-During the short-circuit test at TP4, the current fell from **1.056 A** initially to **64 mA** at steady state. After removing the short, I measured **6.02 V** at TP4. Together, these measurements show how the supply responded to the fault and recovered afterward.
+## Overview
 
-[Read the full lab report (PDF)](../LabReport2_final.pdf)
+This experiment examines how oscilloscope probe compensation affects a square-wave measurement. It also covers the assembly and testing of the TRC-11 voltage regulator, which provides a 6 V supply from a 12 V input.
+
+## Contents
+
+The laboratory report documents probe adjustment, regulator assembly, LED forward-voltage measurements, and the regulator’s response to a short circuit.
+
+- [Laboratory Report](LabReport2_final.pdf)
+
+[Back to Repository](../)
